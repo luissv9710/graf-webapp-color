@@ -1,0 +1,20 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.color-box {
+    width: 150px;
+    height: 150px;
+    border: 2px solid #000;
+    margin-top: 20px;
+}
+
+.input-group {
+    display: flex;
+    align-items: center;
+}
+
+.input-rgb {
+    width: 80px;
+    text-align: center;
+}
